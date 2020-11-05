@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Entrenamiento</string>
+    <string name="btn_mapa1">Mapa 1</string>
+    <string name="btn_mapa2">Mapa 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Escoger mapa</string>
+</resources>
